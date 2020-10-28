@@ -1,2 +1,2 @@
-# DeveloperWeek2020
-Developer Week 2020
+# Meetup
+Find people near you to work on projects or hackathons.

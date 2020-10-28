@@ -29,7 +29,7 @@ body {
 .main-container {
   display: flex;
   flex-direction: column;
-  background-color: thistle;
+  background-color: antiquewhite;
   z-index: 2;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .left-container {
-  background: black;
+  background: #fff;
   border-radius: 5px;
   border-style: none;
   display: inline-block;
